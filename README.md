@@ -1,2 +1,14 @@
-# Purchase-Request-PR-Portal-
-A digital Purchase Request system designed to streamline the PR submission process by replacing manual forms with an automated workflow that improves accuracy and traceability.
+
+
+View your app in : https://ai.studio/apps/960f5040-2129-4b11-9d66-6104d14852d9
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
